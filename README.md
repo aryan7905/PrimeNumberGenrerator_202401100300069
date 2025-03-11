@@ -19,7 +19,7 @@ This repository contains a **Prime Number Generator** written in Python and desi
 ### **Option 2: Run Locally**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/prime-number-generator.git
+   git clone https://github.com/aryan7905/PrimeNumberGenerator.git
    cd prime-number-generator
 Install dependencies (if required):
 pip install matplotlib numpy
